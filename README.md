@@ -1,4 +1,4 @@
-# CloneHeroController
+# Clone Hero Controller
 
 ## Description:
 This is designed to allow an Arduino Leonardo to replace a Guitar Hero controller by recognizing the Arduino as a USB joystick.
